@@ -48,10 +48,11 @@ python app.py
  ]
 }
 ```
-<image src="/img/Captura de Pantalla 2023-10-11 a la(s) 10.32.25.png>">
-<image src="/img/Captura de Pantalla 2023-10-11 a la(s) 10.32.33.png>">
-<image src="/img/Captura de Pantalla 2023-10-11 a la(s) 10.32.41.png>">
+<image src="https://i.ibb.co/888B7bp/Captura-de-Pantalla-2023-10-11-a-la-s-10-32-25.png">
+<image src="https://i.ibb.co/4FSMKzv/Captura-de-Pantalla-2023-10-11-a-la-s-10-32-33.png">
+<image src="https://i.ibb.co/tYP09WR/Captura-de-Pantalla-2023-10-11-a-la-s-10-32-41.png">
 
+## [Resultado Flask]: https://github.com/PerlaTovarGarcia/prueba/blob/main/JSON/Resultado_Flask.json
 
 # Instrucciones para Ejecutar la Solución FastAPI:
 
@@ -98,7 +99,10 @@ uvicorn main:app --reload
  ]
 }
 ```
-<image src="/img/Captura de Pantalla 2023-10-11 a la(s) 10.34.05.png>">
-<image src="/img/Captura de Pantalla 2023-10-11 a la(s) 10.34.15.png>">
+<image src="https://i.ibb.co/rd08n9T/Captura-de-Pantalla-2023-10-11-a-la-s-10-34-05.png">
+<image src="https://i.ibb.co/37LcS9K/Captura-de-Pantalla-2023-10-11-a-la-s-10-34-15.png">
 
-# Los resultados estan en la carpeta de JSON
+## [Resultado Fast API]: https://github.com/PerlaTovarGarcia/prueba/blob/main/JSON/Resultado_fastAPI.json
+
+# [Los resultados estan en la carpeta de JSON]: https://github.com/PerlaTovarGarcia/prueba/tree/main/JSON
+
